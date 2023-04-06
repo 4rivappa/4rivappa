@@ -1,6 +1,6 @@
 <!-- README inspired by @UnrealApex's -->
-<samp>
-  loading... ▓▓░░░░░░░░░░ (68/404)
+
+<samp>loading... ▓▓░░░░░░░░░░ (68/404)
   <br>
   <br>
   hi, i'm arivappa
