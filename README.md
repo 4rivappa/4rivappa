@@ -24,7 +24,12 @@
   <br>
 </samp>
 
-<details closed>
+<details style="margin-left:100px;" closed>
 <summary><samp><b>keyboard layout</b></samp></summary>
-<img src="./keyboard-layout.png" alt="layout image" height="100"/>
+  <br>
+  <img src="./keyboard-layout.png" alt="layout image" height="120"/>
+  <br>
+  <samp>
+    wanna <a href="https://cal.com/arivappa">hangout</a>
+  </samp>
 </details>
