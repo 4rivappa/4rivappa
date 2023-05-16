@@ -1,6 +1,30 @@
 <!-- README inspired by @UnrealApex's -->
 
-<samp>loading... ▓▓░░░░░░░░░░ (68/404)
+<samp>loading... ▓▓░░░░░░░░░░ (68/404)</samp>
+  
+```
+                   -`
+                  .o+`
+                 `ooo/
+                `+oooo:
+               `+oooooo:
+               -+oooooo+:
+             `/:-:++oooo+:
+            `/++++/+++++++:
+           `/++++++++++++++:
+          `/+++ooooooooooooo/`
+         ./ooosssso++osssssso+`
+        .oossssso-````/ossssss+`
+       -osssssso.      :ssssssso.
+      :osssssss/        osssso+++.
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `
+```
+  
+<samp>
   <br>
   <br>
   hi, i'm arivappa
