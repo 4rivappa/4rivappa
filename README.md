@@ -27,8 +27,13 @@
 <details style="margin-left:100px;" closed>
 <summary><samp><b>keyboard layout</b></samp></summary>
   <br>
-  <img src="./keyboard-layout.png" alt="layout image" height="120"/>
-  <br>
+  <p float="left">
+    <img src="./keyboard-layout.png" alt="layout image" height="120"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://monkeytype.com/profile/4rivappa">
+      <img src="https://raw.githubusercontent.com/4rivappa/4rivappa/monkeytype-readme/monkeytype-readme.svg" alt="My Monkeytype profile" height="120"/>
+    </a>
+  </p>
   <samp>
     wanna <a href="https://cal.com/arivappa">hangout</a>
   </samp>
