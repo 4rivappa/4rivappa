@@ -34,6 +34,10 @@
       <img src="https://raw.githubusercontent.com/4rivappa/4rivappa/monkeytype-readme/monkeytype-readme.svg" alt="My Monkeytype profile" height="120"/>
     </a>
   </p>
+  <a href="https://data.typeracer.com/pit/profile?user=leave_me_here">
+      <img src="https://raw.githubusercontent.com/4rivappa/typeracer-readme/typeracer-readme/dark_graph.png" alt="typeracer graph" height="180"/>
+  </a>
+  <br>
   <samp>
     wanna <a href="https://cal.com/arivappa">hangout</a>
   </samp>
