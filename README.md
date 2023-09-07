@@ -7,9 +7,9 @@
   <br>
   ⌨ i code stuff, passionate for automation
   <br>
-  🛸 playing: typeracer, monkeytype, nfs, coc
+  🛸 playing: monkeytype, typeracer, nfs, coc
   <br>
-  🧰 tools: neovim, brave
+  🧰 tools: firefox, vscode
   <br>
   📡 [@4rivappa](https://github.com/4rivappa) and i go by `arivappa` on the internets
   <br>
